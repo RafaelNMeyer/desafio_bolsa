@@ -1,0 +1,36 @@
+\begin{thebibliography}{MVvO96}
+
+\bibitem[DH76]{Diffie:article:1976:sep}
+W.~Diffie and M.~Hellman.
+\newblock {New Directions in Cryptography}.
+\newblock {\em IEEE Transactions on Information Theory}, 22(6):644--654,
+  September 1976.
+
+\bibitem[FSK11]{Ferguson:book:2011}
+N.~Ferguson, B.~Schneier, and T.~Kohno.
+\newblock {\em {Cryptography Engineering: Design Principles and Practical
+  Applications}}.
+\newblock 1st edition, 2011.
+
+\bibitem[Mer79]{Merkle:phd:1979:jun}
+R.~C. Merkle.
+\newblock {\em {Secrecy, Authentication, and Public Key Systems}}.
+\newblock PhD thesis, Stanford University, June 1979.
+
+\bibitem[MVvO96]{Menezes:book:1996}
+A.~J. Menezes, S.~A. Vanstone, and P.~C. van Oorschot.
+\newblock {\em {Handbook of Applied Cryptography}}.
+\newblock 1st edition, 1996.
+
+\bibitem[PP11]{Paar:book:2009}
+C.~Paar and J.~Pelzl.
+\newblock {\em {Understanding Cryptography: A Textbook for Students and
+  Practitioners}}.
+\newblock 1st edition, 2011.
+
+\bibitem[Sta16]{Stallings:book:2016}
+W.~Stallings.
+\newblock {\em {Cryptography and Network Security: Principles and Practice}}.
+\newblock 7th edition, 2016.
+
+\end{thebibliography}
